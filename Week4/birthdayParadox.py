@@ -16,4 +16,4 @@ for i in range(len(birthdayList)-2):
         break
 
 if(not repFlag):
-    print("No repetition : Birthday paadox fails")
+    print("No repetition : Birthday paradox fails")
