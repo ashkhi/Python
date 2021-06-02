@@ -34,3 +34,8 @@ print(m)
 # we can also access an element of list using the list index
 print(m[0])
 print("Diagonal elements : ", m[0][0], m[1][1], m[2][2])
+
+# list is a heterogeneous data structure
+# it can store elements of different types
+list = ['a', 123, True]
+print(type(list[0]), type(list[1]), type(list[2]))
